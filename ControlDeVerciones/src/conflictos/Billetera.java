@@ -2,6 +2,7 @@ package conflictos;
 
 public class Billetera {
 	double saldo;
+	String moneda="USD";
 	String titular;
 	public Billetera(double saldo, String titular) {
 		super();
